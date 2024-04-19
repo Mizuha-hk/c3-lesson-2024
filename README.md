@@ -15,11 +15,11 @@ bun dev
 ```
 
 を実行します  
-[http://localhost:3000](http://localhost:3000) をブラウザーで開くことで結果を確認します.
+[http://localhost:3000](http://localhost:3000) をブラウザーで開くことで結果を確認できます.
 
-`app/page.tsx`を編集することでページを編集することができます. このページはファイルを更新することで自動的に更新されます.
+`app/page.tsx`を編集することでサイトを編集することができます. このサイトはファイルを更新することで自動的に更新されます.
 
-このプロジェクトでは [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) を使用して custom Google Font である Inter を自動的に最適化して読み込みます.
+このプロジェクトでは [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) を使用して custom Google Font である Inter を自動的に最適化して読み込んでいます.
 
 ## もっと学ぶために
 
@@ -35,4 +35,4 @@ bun dev
 
 あなたの Next.js アプリケーションをデプロイする最も簡単な方法は[Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) を使うことです.
 
-詳細をしるためにはこのページを確認してください [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+詳細を知りたい方はこのページを確認してください [Next.js deployment documentation](https://nextjs.org/docs/deployment).
