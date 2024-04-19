@@ -4,7 +4,7 @@
       "dockerfile": "Dockerfile",
       "context": "..",
       "args": { 
-        "VARIANT": "14"
+        "VARIANT": "20"
       }
     },
     "runArgs": [

@@ -1,5 +1,5 @@
 # [Choice] Node.js version: 16, 14, 12
-ARG VARIANT="14"
+ARG VARIANT="20"
 FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}
 
 # [Optional] If your requirements rarely change, uncomment this section to add them to the image.
